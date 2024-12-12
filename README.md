@@ -4,7 +4,7 @@
 Group Members:
 - Samuel Arthur Gamalliel – 5025221109
 - Surya Prima Pradana – 5025221076
-- Ralfazza Rajariandhana
+- Ralfazza Rajariandhana - 5025221081
 
 # Movie Recommendation System
 
