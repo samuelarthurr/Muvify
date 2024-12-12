@@ -66,6 +66,7 @@ movie_recommender/
   - Watch time patterns
   - Completion rates
   - Rating preferences
+- Movie recommendation based on similar plot description
 - Web-based user interface
 - Real-time recommendation generation
 - Synthetic data generation for testing
@@ -148,6 +149,10 @@ http://127.0.0.1:5000
   - Genre expansion
   - Minimum rating threshold
 
+### 4. Cosine Similarity
+- All words in a movie's plot are translated into vectors
+- Cosine Similarity can be used to determine the closeness of each vector
+
 ## Data Structure
 
 ### Movies Dataset (movies.csv)
@@ -168,6 +173,9 @@ http://127.0.0.1:5000
 - completion_rate (float): Percentage watched
 - rating (float): User rating (1-5)
 - date_watched (datetime): Viewing timestamp
+
+### Movies Dataset with plot (tmdb_5000_movies.csv)
+- movie_id, title, overview
 
 ## API Documentation
 
@@ -206,3 +214,6 @@ http://127.0.0.1:5000
 3. Commit your changes
 4. Push to the branch
 5. Create a new Pull Request
+
+### Movie Recommendation based on plot
+When given a title of the movie, it outputs several title that has similar plot to the input. plot_recommend.ipynb
