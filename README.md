@@ -1,11 +1,12 @@
 # Muvify
  RSBP_FP
 
-| Group Member            | Student ID   |
-|-------------------------|--------------|
-| Samuel Arthur Gamalliel | 5025221109   |
-| Surya Prima Pradana     | 5025221076   |
-| Ralfazza Rajariandhana  | 5025221081   |
+| Group Member            | Student ID   | Class        |
+|-------------------------|--------------|--------------|
+| Samuel Arthur Gamalliel | 5025221109   | RSBP (IUP)   |
+| Surya Prima Pradana     | 5025221076   | RSBP (IUP)   |
+| Ralfazza Rajariandhana  | 5025221081   | RSBP (IUP)   |
+
 
 
 # Movie Recommendation System
