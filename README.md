@@ -1,6 +1,11 @@
 # Muvify
  RSBP_FP
 
+Group Members:
+- Samuel Arthur Gamalliel – 5025221109
+- Surya Prima Pradana – 5025221076
+- Ralfazza Rajariandhana
+
 # Movie Recommendation System
 
 A personalized movie recommendation system that categorizes users based on their viewing preferences, behavior, and ratings data. The system uses Support Vector Machine (SVM) classification to segment viewers into three categories: casual, regular, and enthusiast viewers.
